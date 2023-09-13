@@ -34,7 +34,6 @@ Its a Amazon Clone Website project by HTML and CSS  languages.
                 </div>
             </div>
             <div class="nav-signin border">
-                
                 <p>
                     <span>Hello, sign in</span>
                 </p>
@@ -71,7 +70,6 @@ Its a Amazon Clone Website project by HTML and CSS  languages.
     <div class="hero-section">
         <div class="hero-msg"></div>
     </div>
-
     <div class="shop-sec">
         <div class="box1 box">
             <div class="box-content">
@@ -134,8 +132,7 @@ Its a Amazon Clone Website project by HTML and CSS  languages.
         <div class="foot-panel1">
             <a>Back to top</a>
         </div>
-        <div class="foot-panel2">
-            <ul>
+        <div class="foot-panel2"> <ul>
                 <p>Get To Know Us</p>
                 <a>Careers</a>
                 <a>Blog</a>
